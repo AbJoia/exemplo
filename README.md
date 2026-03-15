@@ -1,0 +1,2 @@
+# exemplo
+Exercicios disciplina liogica
